@@ -1,0 +1,9 @@
+These scripts come with NO WARRANTY.
+
+USE AT YOUR OWN RISK.
+
+It is highly recommended that if you want to try a script that can cause permanent changes, use some dummy files first.
+
+
+
+

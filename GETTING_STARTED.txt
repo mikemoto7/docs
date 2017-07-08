@@ -1,0 +1,12 @@
+
+1. All of the scripts have help screens.  Use the following to display a help screen:
+
+   script_name   # No parameters needed.  This is the most reliable method.
+
+   script_name -h      # may not be implemented
+   script_name --help      # may not be implemented
+
+2. For most of the modules I created, I added a main function to them so they can be called by themselves or as modules.
+
+
+
